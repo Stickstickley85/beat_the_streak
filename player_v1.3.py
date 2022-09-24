@@ -11,10 +11,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import re
 
-#%%
-drive = 'C:\\Users\Benjamin Stickley\Documents\Data Sets'
-
-os.chdir(drive)
 
 #%%
 
